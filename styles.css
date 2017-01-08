@@ -1,0 +1,15 @@
+.grid {
+  width: 300px;
+  height: 300px;
+}
+
+.box {
+  box-sizing: border-box;
+  width: 33%;
+  height: 33%;
+  float: left;
+  border: 1px solid black;
+  font-size: 80px;
+  text-align: center;
+
+}
